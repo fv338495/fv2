@@ -5,6 +5,7 @@ namespace uc11_final
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("bem-vindo git");
         }
     }
 }
