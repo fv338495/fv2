@@ -7,6 +7,10 @@ namespace uc11_final
             InitializeComponent();
            string msg = "bem- vindo ao repositorio do GIT";
             MessageBox.Show(msg);
+
+            //maria
+            int idade = 45;
+            MessageBox.Show("Idader: " + idade);
         }  
 
     }
